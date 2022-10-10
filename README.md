@@ -45,6 +45,9 @@ The winner candidate was Diana DeGette with a total of 272,892 votes which repre
 
 <img width="442" alt="Winner_candidate" src="https://user-images.githubusercontent.com/113747210/194956996-56018e12-af0d-4dd1-854f-fbb3fe9e958d.png">
 
+### 3.	Election-Audit Summary
+
+
 
 
 
