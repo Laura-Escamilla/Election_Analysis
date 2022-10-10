@@ -15,7 +15,8 @@ To deliver our report, we made a Python script that delivers the following data:
 
 ### 2.	Election-audit Results
 
-* How many votes were cast in this congressional election?
+* **How many votes were cast in this congressional election?**
 
 In this election they were cast a total of 369,711 votes, as we can see in the below image of our file where we output the results we coded in Python:
+
 <img width="442" alt="Election_Results" src="https://user-images.githubusercontent.com/113747210/194956429-bad56768-f3af-4f56-b8ae-c08872e0e3ca.png">
